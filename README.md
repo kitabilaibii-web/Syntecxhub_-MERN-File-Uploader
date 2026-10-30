@@ -81,4 +81,4 @@ The app runs on `http://localhost:5173`.
 
 ## Author
 
-Your Name# Syntecxhub_-MERN-File-Uploader
+LAIBA LIAQAT
